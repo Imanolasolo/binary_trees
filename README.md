@@ -1,5 +1,9 @@
 # 0x1D. C - Binary trees
 
+In this project I started to work with binary trees
+
+![Logo](https://www.howtogeek.com/wp-content/uploads/2021/05/laptop-with-terminal-big.png?height=200p&trim=2,2,2,50)
+
 ## Resources
 
 Read or watch :
@@ -174,7 +178,7 @@ Github information Repo:
 
 * File:  
 
-[0-binary_tree_node.c]()
+[0-binary_tree_node.c](https://github.com/Imanolasolo/binary_trees/blob/master/0-binary_tree_node.c)
 
 ### 1. Insert left
 
@@ -233,7 +237,7 @@ Github information Repo:
 
 * File:  
 
-[1-binary_tree_insert_left.c]() 
+[1-binary_tree_insert_left.c](https://github.com/Imanolasolo/binary_trees/blob/master/1-binary_tree_insert_left.c) 
 
 ### 2. Insert right
 
@@ -292,7 +296,7 @@ Github information Repo:
 
 * File:  
 
-[2-binary_tree_insert_right.c]() 
+[2-binary_tree_insert_right.c](https://github.com/Imanolasolo/binary_trees/blob/master/2-binary_tree_insert_right.c) 
  
 ### 3. Delete
 
@@ -357,7 +361,7 @@ Github information Repo:
 
 * File:  
 
-[3-binary_tree_delete.c]() 
+[3-binary_tree_delete.c](https://github.com/Imanolasolo/binary_trees/blob/master/3-binary_tree_delete.c) 
  
 ### 4. Is leaf
 
@@ -420,7 +424,7 @@ Github information Repo:
 
 * File:  
 
-[4-binary_tree_is_leaf.c]() 
+[4-binary_tree_is_leaf.c](https://github.com/Imanolasolo/binary_trees/blob/master/4-binary_tree_is_leaf.c) 
  
 ### 5. Is root
 
@@ -483,7 +487,7 @@ Github information Repo:
 
 * File:  
 
-[5-binary_tree_is_root.c]()  
+[5-binary_tree_is_root.c](https://github.com/Imanolasolo/binary_trees/blob/master/5-binary_tree_is_root.c)  
  
 ### 6. Pre-order traversal
 
@@ -556,7 +560,7 @@ Github information Repo:
 
 * File:  
 
-[6-binary_tree_preorder.c]() 
+[6-binary_tree_preorder.c](https://github.com/Imanolasolo/binary_trees/blob/master/6-binary_tree_preorder.c) 
 
 ### 7. In-order traversal
 Write a function that goes through a binary tree using in-order traversal
@@ -628,7 +632,7 @@ Github information Repo:
 
 * File:  
 
-[7-binary_tree_inorder.c]() 
+[7-binary_tree_inorder.c](https://github.com/Imanolasolo/binary_trees/blob/master/7-binary_tree_inorder.c) 
 
 ### 8. Post-order traversal
 Write a function that goes through a binary tree using post-order traversal
@@ -700,7 +704,7 @@ Github information Repo:
 
 * File:  
 
-[8-binary_tree_postorder.c]() 
+[8-binary_tree_postorder.c](https://github.com/Imanolasolo/binary_trees/blob/master/8-binary_tree_postorder.c) 
 
 ### 9. Height
 Write a function that measures the height of a binary tree
@@ -760,7 +764,7 @@ Github information Repo:
 
 * File:  
 
-[9-binary_tree_height.c]() 
+[9-binary_tree_height.c](https://github.com/Imanolasolo/binary_trees/blob/master/9-binary_tree_height.c) 
  
 ### 10. Depth
 Write a function that measures the depth of a node in a binary tree
@@ -820,7 +824,7 @@ Github information Repo:
 
 * File:  
 
-[10-binary_tree_depth.c]() 
+[10-binary_tree_depth.c](https://github.com/Imanolasolo/binary_trees/blob/master/10-binary_tree_depth.c) 
  
 ### 11. Size
  Write a function that measures the size of a binary tree
@@ -880,7 +884,7 @@ Github information Repo:
 
 * File:  
 
-[11-binary_tree_size.c]() 
+[11-binary_tree_size.c](https://github.com/Imanolasolo/binary_trees/blob/master/11-binary_tree_size.c) 
 
 ### 12. Leaves
 Write a function that counts the leaves in a binary tree
@@ -942,9 +946,10 @@ Github information Repo:
 
 * File:  
 
-[12-binary_tree_leaves.c]() 
+[12-binary_tree_leaves.c](https://github.com/Imanolasolo/binary_trees/blob/master/12-binary_tree_leaves.c) 
  
 ### 13. Nodes
+
 Write a function that counts the nodes with at least 1 child in a binary tree
 
 * Prototype:  ` size_t binary_tree_nodes(const binary_tree_t *tree); ` 
@@ -1004,7 +1009,7 @@ Github information Repo:
 
 * File:  
 
-[13-binary_tree_nodes.c]() 
+[13-binary_tree_nodes.c](https://github.com/Imanolasolo/binary_trees/blob/master/13-binary_tree_nodes.c) 
  
 ### 14. Balance factor
 
@@ -1071,7 +1076,7 @@ Github information Repo:
 
 * File:  
 
-[14-binary_tree_balance.c]() 
+[14-binary_tree_balance.c](https://github.com/Imanolasolo/binary_trees/blob/master/14-binary_tree_balance.c) 
 
 ### 15. Is full
 Write a function that checks if a binary tree is full
@@ -1131,9 +1136,10 @@ Github information Repo:
 * GitHub repository:  ` binary_trees ` 
 
 * File:  
-[15-binary_tree_is_full.c]() 
+[15-binary_tree_is_full.c](https://github.com/Imanolasolo/binary_trees/blob/master/15-binary_tree_is_full.c) 
  
 ### 16. Is perfect
+
 Write a function that checks if a binary tree is perfect
 
 * Prototype:  ` int binary_tree_is_perfect(const binary_tree_t *tree); ` 
@@ -1209,9 +1215,10 @@ Github information Repo:
 
 * File:  
 
-[16-binary_tree_is_perfect.c]() 
+[16-binary_tree_is_perfect.c](https://github.com/Imanolasolo/binary_trees/blob/master/16-binary_tree_is_perfect.c) 
 
 ### 17. Sibling
+
 Write a function that finds the sibling of a node
 
 * Prototype:  ` binary_tree_t *binary_tree_sibling(binary_tree_t *node); `
@@ -1281,9 +1288,10 @@ Github information Repo:
 
 * File:  
 
-[17-binary_tree_sibling.c]() 
+[17-binary_tree_sibling.c](https://github.com/Imanolasolo/binary_trees/blob/master/17-binary_tree_sibling.c) 
 
 ### 18. Uncle
+
 Write a function that finds the uncle of a node
 
 * Prototype:  ` binary_tree_t *binary_tree_uncle(binary_tree_t *node); `
@@ -1350,15 +1358,22 @@ Github information Repo:
 
 * File:  
 
-[18-binary_tree_uncle.c]() 
+[18-binary_tree_uncle.c](https://github.com/Imanolasolo/binary_trees/blob/master/18-binary_tree_uncle.c) 
 
 ### 19. Lowest common ancestor
-          #advanced         Progress vs Score  Task Body Write a function that finds the lowest common ancestor of two nodes
-* Prototype:  ` binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second); ` 
+Write a function that finds the lowest common ancestor of two nodes
+
+* Prototype:  ` binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t 
+*second); ` 
+
 * Where  ` first `  is a pointer to the first node
+
 * And  ` second `  is a pointer to the second node
+
 * Your function must return a pointer to the lowest common ancestor node of the two given nodes
+
 * If no common ancestor was found, your function must return  ` NULL ` 
+
 ```bash
 alex@/tmp/binary_trees$ cat 100-main.c
 #include <stdlib.h>
@@ -1420,16 +1435,29 @@ Ancestor of [128] & [65]: 128
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 100-binary_trees_ancestor.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+
+* File:  
+
+[100-binary_trees_ancestor.c](https://github.com/Imanolasolo/binary_trees/blob/master/100-binary_trees_ancestor.c) 
+
 ### 20. Level-order traversal
-          #advanced         Progress vs Score  Task Body Write a function that goes through a binary tree using level-order traversal
+
+Write a function that goes through a binary tree using level-order traversal
+
 * Prototype:  ` void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int)); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to traverse
+
 * And  ` func `  is a pointer to a function to call for each node. The value in the node must be passed as a parameter to this function.
+
 * If  ` tree `  or  ` func `  is  ` NULL ` , do nothing
+
 ```bash
 alex@/tmp/binary_trees$ cat 101-main.c
 #include <stdlib.h>
@@ -1471,7 +1499,7 @@ int main(void)
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 101-main.c 101-binary_tree_levelorder.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 101-lvl
 alex@/tmp/binary_trees$ valgrind ./101-lvl
 ==23445== Memcheck, a memory error detector
-==23445== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==23445== Copyright (C) 2002-2013, and GNU GPLd, by Julian Seward et al.
 ==23445== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
 ==23445== Command: ./101-lvl
 ==23445== 
@@ -1497,15 +1525,25 @@ alex@/tmp/binary_trees$ valgrind ./101-lvl
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 101-binary_tree_levelorder.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File:  
+
+[101-binary_tree_levelorder.c](https://github.com/Imanolasolo/binary_trees/blob/master/101-binary_tree_levelorder.c) 
+ 
 ### 21. Is complete
-          #advanced         Progress vs Score  Task Body Write a function that checks if a binary tree is complete
+
+Write a function that checks if a binary tree is complete
+
 * Prototype:  ` int binary_tree_is_complete(const binary_tree_t *tree); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to check
-* If  ` tree `  is  ` NULL ` , your function must return  ` 0 ` 
+
+* If  ` tree `  is  ` NULL ` , your function must return  ` 0 
+` 
 ```bash
 alex@/tmp/binary_trees$ cat 102-main.c
 #include <stdlib.h>
@@ -1577,15 +1615,25 @@ Is 98 complete: 0
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 102-binary_tree_is_complete.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[102-binary_tree_is_complete.c](https://github.com/Imanolasolo/binary_trees/blob/master/102-binary_tree_is_complete.c) 
+ 
 ### 22. Rotate left
-          #advanced         Progress vs Score  Task Body Write a function that performs a left-rotation on a binary tree
+
+Write a function that performs a left-rotation on a binary tree
+
 * Prototype:  ` binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to rotate
+
 * Your function must return a pointer to the new root node of the tree once rotated
+
 ```bash
 alex@/tmp/binary_trees$ cat 103-main.c
 #include <stdlib.h>
@@ -1637,15 +1685,25 @@ Rotate-left 128
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 103-binary_tree_rotate_left.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File:  
+
+[103-binary_tree_rotate_left.c](https://github.com/Imanolasolo/binary_trees/blob/master/102-binary_tree_is_complete.c)
+
 ### 23. Rotate right
-          #advanced         Progress vs Score  Task Body Write a function that performs a right-rotation on a binary tree
-* Prototype:  ` binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree); ` 
+
+Write a function that performs a right-rotation on a binary tree
+
+* Prototype:  ` binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree); 
+` 
 * Where  ` tree `  is a pointer to the root node of the tree to rotate
+
 * Your function must return a pointer to the new root node of the tree once rotated
+
 ```bash
 alex@/tmp/binary_trees$ cat 104-main.c
 #include <stdlib.h>
@@ -1697,22 +1755,37 @@ Rotate-right 64
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 104-binary_tree_rotate_right.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[104-binary_tree_rotate_right.c](https://github.com/Imanolasolo/binary_trees/blob/master/104-binary_tree_rotate_right.c) 
+
 ### 24. Is BST
-          #advanced         Progress vs Score  Task Body Write a function that checks if a binary tree is a valid  [Binary Search Tree](https://intranet.hbtn.io/rltoken/L2CpULSk9hQEOBKaGI8IkQ) 
+
+Write a function that checks if a binary tree is a valid  [Binary Search Tree](https://intranet.hbtn.io/rltoken/L2CpULSk9hQEOBKaGI8IkQ) 
 
 * Prototype:  ` int binary_tree_is_bst(const binary_tree_t *tree); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to check
+
 * Your function must return  ` 1 `  if  ` tree `  is a valid BST, and  ` 0 `  otherwise
+
 * If  ` tree `  is  ` NULL ` , return  ` 0 ` 
+
 Properties of a Binary Search Tree:
+
 * The left subtree of a node contains only nodes with values less than the node’s value
+
 * The right subtree of a node contains only nodes with values greater than the node’s value
+
 * The left and right subtree each must also be a binary search tree
+
 * There must be no duplicate values
+
 ```bash
 alex@/tmp/binary_trees$ cat 110-main.c
 #include <stdlib.h>
@@ -1763,18 +1836,31 @@ alex@/tmp/binary_trees$
 
 ```
  Task URLs  Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 110-binary_tree_is_bst.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[110-binary_tree_is_bst.c](https://github.com/Imanolasolo/binary_trees/blob/master/110-binary_tree_is_bst.c) 
+ 
 ### 25. BST - Insert
-          #advanced         Progress vs Score  Task Body Write a function that inserts a value in a Binary Search Tree
+
+Write a function that inserts a value in a Binary Search Tree
+
 * Prototype:  ` bst_t *bst_insert(bst_t **tree, int value); ` 
+
 * Where  ` tree `  is a double pointer to the root node of the BST to insert the value
+
 * And  ` value `  is the value to store in the node to be inserted
+
 * Your function must return a pointer to the created node, or  ` NULL `  on failure
+
 * If the address stored in  ` tree `  is  ` NULL ` , the created node must become the root node.
+
 * If the value is already present in the tree, it must be ignored
+
 Your file   ` 0-binary_tree_node.c `   will be compile during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 111-main.c
 #include <stdlib.h>
@@ -1831,18 +1917,30 @@ Node should be nil -> (nil)
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 111-bst_insert.c, 0-binary_tree_node.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File: 
+[111-bst_insert.c](https://github.com/Imanolasolo/binary_trees/blob/master/111-bst_insert.c) 
+ 
 ### 26. BST - Array to BST
-          #advanced         Progress vs Score  Task Body Write a function that builds a Binary Search Tree from an array
+
+Write a function that builds a Binary Search Tree from an array
+
 * Prototype:  ` bst_t *array_to_bst(int *array, size_t size); ` 
+
 * Where  ` array `  is a pointer to the first element of the array to be converted
+
 * And  ` size `  is the number of element in the array
+
 * Your function must return a pointer to the root node of the created BST, or  ` NULL `  on failure
+
 * If a value of the array is already present in the tree, this value must be ignored
+
 Your files   ` 111-bst_insert.c `   and   ` 0-binary_tree_node.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 112-main.c 
 #include <stdlib.h>
@@ -1878,17 +1976,29 @@ alex@/tmp/binary_trees$ ./112-bst_array
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 112-array_to_bst.c, 111-bst_insert.c, 0-binary_tree_node.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[112-array_to_bst.c](https://github.com/Imanolasolo/binary_trees/blob/master/112-array_to_bst.c) 
+
 ### 27. BST - Search
-          #advanced         Progress vs Score  Task Body Write a function that searches for a value in a Binary Search Tree
+
+Write a function that searches for a value in a Binary Search Tree
+
 * Prototype:  ` bst_t *bst_search(const bst_t *tree, int value); ` 
+
 * Where  ` tree `  is a pointer to the root node of the BST to search
+
 * And  ` value `  is the value to search in the tree
-* Your function must return a pointer to the node containing a value equals to  ` value ` 
+
+* Your function must return a pointer to the node containing a value equals to  ` value `
+
 * If  ` tree `  is  ` NULL `  or if nothing is found, your function must return  ` NULL ` 
+
 ```bash
 alex@/tmp/binary_trees$ cat 113-main.c
 #include <stdlib.h>
@@ -1935,18 +2045,31 @@ Node should be nil -> (nil)
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 113-bst_search.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[113-bst_search.c](https://github.com/Imanolasolo/binary_trees/blob/master/113-bst_search.c) 
+
 ### 28. BST - Remove
-          #advanced         Progress vs Score  Task Body Write a function that removes a node from a Binary Search Tree
-* Prototype:  ` bst_t *bst_remove(bst_t *root, int value); ` 
+
+Write a function that removes a node from a Binary Search Tree
+
+* Prototype:  ` bst_t *bst_remove(bst_t *root, int value); `
+
 * Where  ` root `  is a pointer to the root node of the tree where you will remove a node
+
 * And  ` value `  is the value to remove in the tree
+
 * Once located, the node containing a value equals to  ` value `  must be removed and freed
+
 * If the node to be deleted has two children, it must be replaced with its first  ` in-order successor `  (not predecessor)
+
 * Your function must return a pointer to the new root node of the tree after removing the desired value
+
 ```bash
 alex@/tmp/binary_trees$ cat 114-main.c
 #include <stdlib.h>
@@ -1989,7 +2112,7 @@ int main(void)
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 114-bst_remove.c 114-main.c 112-array_to_bst.c 111-bst_insert.c 0-binary_tree_node.c 3-binary_tree_delete.c -o 114-bst_rm
 alex@/tmp/binary_trees$ valgrind ./114-bst_rm
 ==14720== Memcheck, a memory error detector
-==14720== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==14720== Copyright (C) 2002-2013, and GNU GPLd, by Julian Seward et al.
 ==14720== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
 ==14720== Command: ./114-bst_rm
 ==14720== 
@@ -2028,30 +2151,52 @@ Removed 68...
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 114-bst_remove.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File:  
+
+[114-bst_remove.c](https://github.com/Imanolasolo/binary_trees/blob/master/114-bst_remove.c) 
+ 
 ### 29. Big O #BST
-          #advanced         Progress vs Score  Task Body What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
+
+What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
+
 * Inserting the value  ` n ` 
-* Removing the node with the value  ` n ` 
+
+* Removing the node with the value  ` n `
+
 * Searching for a node in a BST of size n
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 115-O ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File:  
+[115-O](https://github.com/Imanolasolo/binary_trees/blob/master/115-O) 
+ 
 ### 30. Is AVL
-          #advanced         Progress vs Score  Task Body Write a function that checks if a binary tree is a valid  [AVL Tree](https://intranet.hbtn.io/rltoken/zawOf_VUKC0zTBPbKFv4Vg) 
+
+Write a function that checks if a binary tree is a valid  [AVL Tree](https://intranet.hbtn.io/rltoken/zawOf_VUKC0zTBPbKFv4Vg) 
 
 * Prototype:  ` int binary_tree_is_avl(const binary_tree_t *tree); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to check
+
 * Your function must return  ` 1 `  if  ` tree `  is a valid AVL Tree, and  ` 0 `  otherwise
+
 * If  ` tree `  is  ` NULL ` , return  ` 0 ` 
+
 Properties of an AVL Tree:
+
 * An AVL Tree is a BST
+
 * The difference between heights of left and right subtrees cannot be more than one
+
 * The left and right subtrees must also be AVL trees
+
 ```bash
 alex@/tmp/binary_trees$ cat 120-main.c
 #include <stdlib.h>
@@ -2136,19 +2281,33 @@ Is 98 avl: 0
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 120-binary_tree_is_avl.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[120-binary_tree_is_avl.c](https://github.com/Imanolasolo/binary_trees/blob/master/120-binary_tree_is_avl.c) 
+
 ### 31. AVL - Insert
-          #advanced         Progress vs Score  Task Body Write a function that inserts a value in an AVL Tree
+
+Write a function that inserts a value in an AVL Tree
+
 * Prototype:  ` avl_t *avl_insert(avl_t **tree, int value); ` 
+
 * Where  ` tree `  is a double pointer to the root node of the AVL tree for inserting the value
+
 * And  ` value `  is the value to store in the node to be inserted
+
 * Your function must return a pointer to the created node, or  ` NULL `  on failure
+
 * If the address stored in  ` tree `  is  ` NULL ` , the created node must become the root node.
+
 * The resulting tree after insertion, must be a balanced AVL Tree
+
 Your files   ` 14-binary_tree_balance.c `  ,   ` 103-binary_tree_rotate_left.c `  ,   ` 104-binary_tree_rotate_right.c `   and   ` 0-binary_tree_node.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 121-main.c
 #include <stdlib.h>
@@ -2234,21 +2393,31 @@ Inserted: 50
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File: ```bash
-121-avl_insert.c, 14-binary_tree_balance.c, 103-binary_tree_rotate_left.c, 104-binary_tree_rotate_right.c, 0-binary_tree_node.c
-```
 
- Self-paced manual review  Panel footer - Controls 
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File: 
+
+[121-avl_insert.c](https://github.com/Imanolasolo/binary_trees/blob/master/121-avl_insert.c)
+
 ### 32. AVL - Array to AVL
-          #advanced         Progress vs Score  Task Body Write a function that builds an AVL tree from an array
+
+Write a function that builds an AVL tree from an array
+
 * Prototype:  ` avl_t *array_to_avl(int *array, size_t size); ` 
+
 * Where  ` array `  is a pointer to the first element of the array to be converted
+
 * And  ` size `  is the number of element in the array
+
 * Your function must return a pointer to the root node of the created AVL tree, or  ` NULL `  on failure
+
 * If a value of the array is already present in the tree, this value must be ignored
+
 Your files   ` 121-avl_insert.c `  ,   ` 0-binary_tree_node.c `  ,   ` 14-binary_tree_balance.c `  ,   ` 103-binary_tree_rotate_left.c `   and   ` 104-binary_tree_rotate_right.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 122-main.c 
 #include <stdlib.h>
@@ -2284,23 +2453,33 @@ alex@/tmp/binary_trees$ ./122-avl_array
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File: ```bash
-122-array_to_avl.c, 121-avl_insert.c, 0-binary_tree_node.c, 103-binary_tree_rotate_left.c, 104-binary_tree_rotate_right.c, 14-binary_tree_balance.c
-```
 
- Self-paced manual review  Panel footer - Controls 
+Github information Repo:
+* GitHub repository:  ` binary_trees ` 
+* File: 
+
+[122-array_to_avl.c](https://github.com/Imanolasolo/binary_trees/blob/master/122-array_to_avl.c)
+
 ### 33. AVL - Remove
-          #advanced         Progress vs Score  Task Body Write a function that removes a node from an AVL tree
+
+Write a function that removes a node from an AVL tree
+
 * Prototype:  ` avl_t *avl_remove(avl_t *root, int value); ` 
+
 * Where  ` root `  is a pointer to the root node of the tree for removing a node
+
 * And  ` value `  is the value to remove in the tree
+
 * Once located, the node containing a value equals to  ` value `  must be removed and freed
+
 * If the node to be deleted has two children, it must be replaced with its first  ` in-order successor `  (not predecessor)
+
 * After deletion of the desired node, the tree must be rebalanced if necessary
+
 * Your function must return a pointer to the new root node of the tree after removing the desired value, and after rebalancing
+
 Your files   ` 14-binary_tree_balance.c `  ,   ` 103-binary_tree_rotate_left.c `   and   ` 104-binary_tree_rotate_right.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 123-main.c
 #include <stdio.h>
@@ -2351,7 +2530,7 @@ int main(void)
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 123-avl_remove.c 123-main.c 103-binary_tree_rotate_left.c 104-binary_tree_rotate_right.c 122-array_to_avl.c 121-avl_insert.c 14-binary_tree_balance.c 3-binary_tree_delete.c 0-binary_tree_node.c -o 123-avl_rm
 alex@/tmp/binary_trees$ valgrind ./123-avl_rm
 ==15646== Memcheck, a memory error detector
-==15646== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==15646== Copyright (C) 2002-2013, and GNU GPLd, by Julian Seward et al.
 ==15646== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
 ==15646== Command: ./123-avl_rm
 ==15646== 
@@ -2398,23 +2577,35 @@ Removed 22...
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File: ```bash
-123-avl_remove.c, 14-binary_tree_balance.c, 103-binary_tree_rotate_left.c, 104-binary_tree_rotate_right.c
-```
 
- Self-paced manual review  Panel footer - Controls 
+Github information Repo:
+
+* GitHub repository:  ` binary_trees ` 
+
+* File: 
+
+[123-avl_remove.c](https://github.com/Imanolasolo/binary_trees/blob/master/123-avl_remove.c)
+
 ### 34. AVL - From sorted array
-          #advanced         Progress vs Score  Task Body Write a function that builds an AVL tree from an array
+
+Write a function that builds an AVL tree from an array
+
 * Prototype:  ` avl_t *sorted_array_to_avl(int *array, size_t size); ` 
+
 * Where  ` array `  is a pointer to the first element of the array to be converted
+
 * And  ` size `  is the number of element in the array
+
 * Your function must return a pointer to the root node of the created AVL tree, or  ` NULL `  on failure
+
 * You can assume there will be no duplicate value in the array
+
 * You are not allowed to rotate
+
 * You can only have 2 functions in your file
+
 Your file   ` 0-binary_tree_node.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 124-main.c
 #include <stdlib.h>
@@ -2468,30 +2659,51 @@ alex@/tmp/binary_trees$ ./124-avl_sorted
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 124-sorted_array_to_avl.c, 0-binary_tree_node.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[124-sorted_array_to_avl.c](https://github.com/Imanolasolo/binary_trees/blob/master/124-sorted_array_to_avl.c)  
+
 ### 35. Big O #AVL Tree
-          #advanced         Progress vs Score  Task Body What are the average time complexities of those operations on an AVL Tree (one answer per line):
+
+What are the average time complexities of those operations on an AVL Tree (one answer per line):
+
 * Inserting the value  ` n ` 
+
 * Removing the node with the value  ` n ` 
+
 * Searching for a node in an AVL tree of size n
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 125-O ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+[125-O](https://github.com/Imanolasolo/binary_trees/blob/master/125-O)  
+ 
 ### 36. Is Binary heap
-          #advanced         Progress vs Score  Task Body Write a function that checks if a binary tree is a valid  [Max Binary Heap](https://intranet.hbtn.io/rltoken/St8ewcG2JJuWmkSNTfe29g) 
+
+Write a function that checks if a binary tree is a valid  [Max Binary Heap](https://intranet.hbtn.io/rltoken/St8ewcG2JJuWmkSNTfe29g) 
 
 * Prototype:  ` int binary_tree_is_heap(const binary_tree_t *tree); ` 
+
 * Where  ` tree `  is a pointer to the root node of the tree to check
+
 * Your function must return  ` 1 `  if  ` tree `  is a valid Max Binary Heap, and  ` 0 `  otherwise
 * If  ` tree `  is  ` NULL ` , return  ` 0 ` 
+
 Properties of a Max Binary Heap:
+
 * It’s a complete tree
+
 * In a Max Binary Heap, the value at root must be maximum among all values present in Binary Heap
+
 * The last property must be recursively true for all nodes in Binary Tree
+
 ```bash
 alex@/tmp/binary_trees$ cat 130-main.c
 #include <stdlib.h>
@@ -2563,20 +2775,34 @@ Is 98 heap: 0
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 130-binary_tree_is_heap.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+[130-binary_tree_is_heap.c](https://github.com/Imanolasolo/binary_trees/blob/master/130-binary_tree_is_heap.c) 
+ 
 ### 37. Heap - Insert
-          #advanced         Progress vs Score  Task Body Write a function that inserts a value in Max Binary Heap
-* Prototype:  ` heap_t *heap_insert(heap_t **root, int value) ` 
+
+Write a function that inserts a value in Max Binary Heap
+
+* Prototype:  ` heap_t *heap_insert(heap_t **root, int value) `
+
 * Where  ` root `  is a double pointer to the root node of the Heap to insert the value
+
 * And  ` value `  is the value to store in the node to be inserted
+
 * Your function must return a pointer to the created node, or  ` NULL `  on failure
+
 * If the address stored in  ` root `  is  ` NULL ` , the created node must become the root node.
+
 * You have to respect a  ` Max Heap `  ordering
+
 * You are allowed to have up to  ` 6 `  functions in your file
+
 Your file   ` 0-binary_tree_node.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 131-main.c
 #include <stdlib.h>
@@ -2661,17 +2887,27 @@ Inserted: 50
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 131-heap_insert.c, 0-binary_tree_node.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+
+[131-heap_insert.c](https://github.com/Imanolasolo/binary_trees/blob/master/131-heap_insert.c) 
+
 ### 38. Heap - Array to Binary Heap
-          #advanced         Progress vs Score  Task Body Write a function that builds a Max Binary Heap tree from an array
+Write a function that builds a Max Binary Heap tree from an array
+
 * Prototype:  ` heap_t *array_to_heap(int *array, size_t size); ` 
+
 * Where array is a pointer to the first element of the array to be converted
+
 * And size is the number of element in the array
+
 * Your function must return a pointer to the root node of the created Binary Heap, or NULL on failure
 Your files   ` 131-heap_insert.c `   and   ` 0-binary_tree_node.c `   will be compiled during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 132-main.c
 #include <stdlib.h>
@@ -2707,18 +2943,30 @@ alex@/tmp/binary_trees$ ./132-heap_array
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 132-array_to_heap.c, 131-heap_insert.c, 0-binary_tree_node.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+[132-array_to_heap.c](https://github.com/Imanolasolo/binary_trees/blob/master/132-array_to_heap.c) 
+
 ### 39. Heap - Extract
-          #advanced         Progress vs Score  Task Body Write a function that extracts the root node of a Max Binary Heap
-* Prototype:  ` int heap_extract(heap_t **root); ` 
+
+Write a function that extracts the root node of a Max Binary Heap
+
+* Prototype:  ` int heap_extract(heap_t **root); `
+
 * Where  ` root `  is a double pointer to the root node of heap
+
 * Your function must return the value stored in the root node
+
 * The root node must be freed and replace with the last  ` level-order `  node of the heap
+
 * Once replaced, the heap must be rebuilt if necessary
-* If your function fails, return  ` 0 ` 
+
+* If your function fails, return  ` 0 `
+
 ```bash
 alex@/tmp/binary_trees$ cat 133-main.c
 #include <stdlib.h>
@@ -2762,7 +3010,7 @@ int main(void)
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 133-main.c 133-heap_extract.c 132-array_to_heap.c 131-heap_insert.c 3-binary_tree_delete.c -o 133-heap_extract
 alex@/tmp/binary_trees$ valgrind ./133-heap_extract
 ==29133== Memcheck, a memory error detector
-==29133== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==29133== Copyright (C) 2002-2013, and GNU GPLd, by Julian Seward et al.
 ==29133== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
 ==29133== Command: ./133-heap_extract
 ==29133== 
@@ -2798,18 +3046,30 @@ Extracted: 91
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
-* GitHub repository:  ` binary_trees ` 
-* File:  ` 133-heap_extract.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+Github information Repo:
+
+* GitHub repository:  ` binary_trees `
+
+* File:  
+[133-heap_extract.c](https://github.com/Imanolasolo/binary_trees/blob/master/133-heap_extract.c) 
+ 
 ### 40. Heap - Sort
-          #advanced         Progress vs Score  Task Body Write a function that converts a Binary Max Heap to a sorted array of integers
+
+Write a function that converts a Binary Max Heap to a sorted array of integers
+
 * Prototype:  ` int *heap_to_sorted_array(heap_t *heap, size_t *size); ` 
+
 * Where  ` heap `  is a pointer to the root node of the heap to convert
+
 * And  ` size `  is an address to store the size of the array
+
 * You can assume  ` size `  is a valid address
+
 * Since we are using Max Heap, the returned array must be sorted in descending order
+
 Your file   ` 133-heap_extract.c `   will be compile during the correction
+
 ```bash
 alex@/tmp/binary_trees$ cat 134-main.c 
 #include <stdlib.h>
@@ -2866,7 +3126,7 @@ int main(void)
 alex@/tmp/binary_trees$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 134-main.c 134-heap_to_sorted_array.c 133-heap_extract.c 132-array_to_heap.c 131-heap_insert.c -o 134-heap_sort
 alex@/tmp/binary_trees$ valgrind ./134-heap_sort
 ==46529== Memcheck, a memory error detector
-==46529== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==46529== Copyright (C) 2002-2013, and GNU GPLd, by Julian Seward et al.
 ==46529== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
 ==46529== Command: ./134-heap_sort
 ==46529== 
@@ -2889,35 +3149,47 @@ alex@/tmp/binary_trees$ valgrind ./134-heap_sort
 alex@/tmp/binary_trees$
 
 ```
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 134-heap_to_sorted_array.c, 133-heap_extract.c ` 
- Self-paced manual review  Panel footer - Controls 
+
+* File:  
+[134-heap_to_sorted_array.c] NOT DEVELOPED YET
+ 
 ### 41. Big O #Binary Heap
-          #advanced         Progress vs Score  Task Body What are the average time complexities of those operations on a Binary Heap (one answer per line):
+
+What are the average time complexities of those operations on a Binary Heap (one answer per line):
+
 * Inserting the value n
+
 * Extracting the root node
+
 * Searching for a node in a binary heap of size n
- Task URLs  Github information Repo:
+
+Github information Repo:
+
 * GitHub repository:  ` binary_trees ` 
-* File:  ` 135-O ` 
- Self-paced manual review  Panel footer - Controls 
-×#### Recommended Sandbox
-[Running only]() 
-### 1 image(1/5 Sandboxes spawned)
-### Ubuntu 20.04
-Basic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Holberton Foundations
-SSHSFTP[Webterm](https://intranet.hbtn.io/user_containers/21027/webterm) 
-[Destroy]() 
-#### Credentials
-Host7e37754e8586.1e732e4d.hbtn-cod.ioUsername7e37754e8586Passworde4af702ba40df68e3592#### Web access
-[HTTPS](https://7e37754e8586.1e732e4d.hbtn-cod.io/) 
-[HTTP](http://7e37754e8586.1e732e4d.hbtn-cod.io/) 
-[3000](http://7e37754e8586.1e732e4d.hbtn-cod.io:3000/) 
-[4000](http://7e37754e8586.1e732e4d.hbtn-cod.io:4000/) 
-[5000](http://7e37754e8586.1e732e4d.hbtn-cod.io:5000/) 
-[5001](http://7e37754e8586.1e732e4d.hbtn-cod.io:5001/) 
-[8000](http://7e37754e8586.1e732e4d.hbtn-cod.io:8000/) 
-[8080](http://7e37754e8586.1e732e4d.hbtn-cod.io:8080/) 
-#### Port mapping
-SSH49533HTTP49532HTTPS49531300049530MySQL49529400049528500049527500149526800049525808049524
+
+* File:  
+
+[135-O](https://github.com/Imanolasolo/binary_trees/blob/master/135-O) 
+
+## Credits
+
+## Author(s):blue_book:
+
+Work is owned and maintained by:
+* Imanol Asolo <[3848](mailto:3848@holbertonschool.com)> [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/25px-Octicons-mark-github.svg.png)](https://github.com/Imanolasolo) [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/25px-Twitter_Bird.svg.png)](https://twitter.com/jjusturi) [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/25px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/imanol-asolo-5ba9b42a/)
+
+
+## Acknowledgments :mega: 
+
+### **`Holberton School`** (*providing guidance*)
+This program was written as part of the curriculum for Holberton School.
+Holberton School is a campus-based full-stack software engineering program
+that prepares students for careers in the tech industry using project-based
+peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
+<p align="center">
+	<img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="This is a secret;)">
+</p>
